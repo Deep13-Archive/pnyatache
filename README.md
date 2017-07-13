@@ -1,5 +1,5 @@
-# Cruzer
+# PNYAtache
 
-_Sandisk Cruzer Icons_
+_PNYAtache Icons_
 
-```Cruzer Mac Folder.zip``` conatins the Mac icon folder version. The Finder resources for custom icons don't 'git' all that well.
+```PNYAtache Mac Folder.zip``` conatins the Mac icon folder version. The Finder resources for custom icons don't 'git' all that well.
